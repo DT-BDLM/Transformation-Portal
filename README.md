@@ -19,3 +19,46 @@ This project is a meditation and self-coaching application that:
 ## 3. Technology
 * **Core:** HTML, CSS, and JavaScript
 * **Platform:** Web (designed for desktop and mobile)
+
+## 4. Research-Validated Workflow
+|SectionContent SourcePurposeI. OnboardingREL&LC&C 2023 ProceduresCaptures baseline client data and the "Catalyst" for change.II. Awareness Pre-CheckAwareness to Awareness SurveyEstablishes the initial state of the client's consciousness.III. The 8 A's JourneyProprietary FrameworkThe core coaching process (Awareness through Assimilation).IV. Validation Post-CheckStuckey et al. Research SurveyProvides academic proof that a "Worldview Shift" occurred.
+5. The Nine-Step Integrated Process
+This framework maps the 8 A's of Transformation to the stages of the Hero's Journey:
+
+Introduction: Contextualizing the journey.
+
+The Call to Adventure: Awareness of the challenge.
+
+Refusal of the Call: Identifying internal resistance.
+
+Meeting the Mentor: Assurance and guidance.
+
+Crossing the Threshold: Acceptance and commitment.
+
+Tests, Allies, and Enemies: Association and strategic relationships.
+
+The Ordeal: Adoration and Accountability during the crisis.
+
+The Reward: Assignment and discovery of purpose.
+
+The Road Back & Return: Assimilation and permanent transformation.
+
+1. **Introduction:** Contextualizing the journey.
+2. **The Call to Adventure:** **Awareness** of the challenge.
+3. **Refusal of the Call:** Identifying internal resistance.
+4. **Meeting the Mentor:** **Assurance** and guidance.
+5. **Crossing the Threshold:** **Acceptance** and commitment.
+6. **Tests, Allies, and Enemies:** **Association** and strategic relationships.
+7. **The Ordeal:** **Adoration** and **Accountability** during the crisis.
+8. **The Reward:** **Assignment** and discovery of purpose.
+9. **The Road Back & Return:** **Assimilation** and permanent transformation.
+
+
+
+
+
+
+
+
+
+
