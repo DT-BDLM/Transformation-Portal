@@ -41,4 +41,4 @@ This framework maps the **8 A's of Transformation** to the stages of the **Hero'
 6. **Tests, Allies, and Enemies:** **Association** and strategic relationships.
 7. **The Ordeal:** **Adoration** and **Accountability** during the crisis.
 8. **The Reward:** **Assignment** and discovery of purpose.
-9. **The Road Back & Return:** **Assimilation** and permanent transformation.
+9. **The Road Back & Return:** **Assimilation** and permanent transformation.permanent transformation.
