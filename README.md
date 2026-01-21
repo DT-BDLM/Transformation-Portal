@@ -21,8 +21,6 @@ This project is a meditation and self-coaching application that:
 * **Platform:** Web (designed for desktop and mobile)
 
 ## 4. Research-Validated Workflow
-
-
 | Section | Content Source | Purpose |
 | :--- | :--- | :--- |
 | **I. Onboarding** | REL&LC&C 2023 Procedures | Captures baseline client data and the "Catalyst" for change. |
