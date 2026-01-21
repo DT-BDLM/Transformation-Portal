@@ -21,27 +21,19 @@ This project is a meditation and self-coaching application that:
 * **Platform:** Web (designed for desktop and mobile)
 
 ## 4. Research-Validated Workflow
-|SectionContent SourcePurposeI. OnboardingREL&LC&C 2023 ProceduresCaptures baseline client data and the "Catalyst" for change.II. Awareness Pre-CheckAwareness to Awareness SurveyEstablishes the initial state of the client's consciousness.III. The 8 A's JourneyProprietary FrameworkThe core coaching process (Awareness through Assimilation).IV. Validation Post-CheckStuckey et al. Research SurveyProvides academic proof that a "Worldview Shift" occurred.
-5. The Nine-Step Integrated Process
-This framework maps the 8 A's of Transformation to the stages of the Hero's Journey:
 
-Introduction: Contextualizing the journey.
 
-The Call to Adventure: Awareness of the challenge.
+| Section | Content Source | Purpose |
+| :--- | :--- | :--- |
+| **I. Onboarding** | REL&LC&C 2023 Procedures | Captures baseline client data and the "Catalyst" for change. |
+| **II. Awareness Pre-Check** | Awareness to Awareness Survey | Establishes the initial state of the client's consciousness. |
+| **III. The 8 A's Journey** | Proprietary Framework | The core coaching process (Awareness through Assimilation). |
+| **IV. Validation Post-Check** | Stuckey et al. Research Survey | Provides academic proof that a "Worldview Shift" occurred. |
 
-Refusal of the Call: Identifying internal resistance.
+## 5. The Nine-Step Integrated Process
+This framework maps the **8 A's of Transformation** to the stages of the **Hero's Journey**:
 
-Meeting the Mentor: Assurance and guidance.
 
-Crossing the Threshold: Acceptance and commitment.
-
-Tests, Allies, and Enemies: Association and strategic relationships.
-
-The Ordeal: Adoration and Accountability during the crisis.
-
-The Reward: Assignment and discovery of purpose.
-
-The Road Back & Return: Assimilation and permanent transformation.
 
 1. **Introduction:** Contextualizing the journey.
 2. **The Call to Adventure:** **Awareness** of the challenge.
@@ -51,14 +43,5 @@ The Road Back & Return: Assimilation and permanent transformation.
 6. **Tests, Allies, and Enemies:** **Association** and strategic relationships.
 7. **The Ordeal:** **Adoration** and **Accountability** during the crisis.
 8. **The Reward:** **Assignment** and discovery of purpose.
-9. **The Road Back & Return:** **Assimilation** and permanent transformation.
-
-
-
-
-
-
-
-
-
+9. **The Road Back & Return:** **Assimilation** and permanent transformation.ansformation.
 
