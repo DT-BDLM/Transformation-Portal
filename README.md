@@ -11,16 +11,18 @@ This is the kind of resource I personally needed for the last 50 years as a TERA
 
 ## 2. What It Does (The Solution)
 This project is a meditation and self-coaching application that:
-* Guides users through the proprietary **8 A's of Transformation** framework.
+* Guides users through our proprietary **8 A's of Transformation** framework.
 * Integrates the **Hero's Journey** as a narrative roadmap for recovery.
 * Provides a secure, private space for meditation and self-reflection.
-* Connects to the broader **Pinnacle** self-coaching ecosystem.
+* Connects to our broader **Pinnacle** self-coaching ecosystem.
 
 ## 3. Technology
 * **Core:** HTML, CSS, and JavaScript
 * **Platform:** Web (designed for desktop and mobile)
 
 ## 4. Research-Validated Workflow
+
+
 | Section | Content Source | Purpose |
 | :--- | :--- | :--- |
 | **I. Onboarding** | REL&LC&C 2023 Procedures | Captures baseline client data and the "Catalyst" for change. |
@@ -30,6 +32,8 @@ This project is a meditation and self-coaching application that:
 
 ## 5. The Nine-Step Integrated Process
 This framework maps the **8 A's of Transformation** to the stages of the **Hero's Journey**:
+
+
 
 1. **Introduction:** Contextualizing the journey.
 2. **The Call to Adventure:** **Awareness** of the challenge.
